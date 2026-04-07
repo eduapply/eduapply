@@ -9,7 +9,7 @@ I'm Edu, software engeneer at Apply Digital, I love coding and cooking:<br><br>M
 
 ### Main Github account:
 
-Here I upload my stoddy repos, discovery and some playgounds
+Here I upload my studdy repos, discovery and some playgounds
 
 [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/eduolalo)
 
