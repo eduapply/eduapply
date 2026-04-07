@@ -5,6 +5,8 @@ I'm Edu, software engeneer at Apply Digital, I love coding and cooking:<br><br>M
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rcchristiane)
 
+[![Static Badge](https://img.shields.io/badge/Platzi-green)](https://platzi.com/p/christiane/)
+
 ### Main Github account:
 
 Here I upload my stoddy repos, discovery and some playgounds
